@@ -6,13 +6,13 @@ Using Material UI
 
 ## Present:
 
-User registration, login/
-Writing and editing a post, with the possibility of uploading a img/
-Deleting profile, posts, comments/
-Commenting on posts/
-Search by tags/
-Global post search/
-Sorting posts by date, popularity, "My posts"/
+- User registration, login
+- Writing and editing a post, with the possibility of uploading a img
+- Deleting profile, posts, comments
+- Commenting on posts
+- Search by tags
+- Global post search
+- Sorting posts by date, popularity, "My posts"
 
 Version 1.0 no adaptive mobile.
 

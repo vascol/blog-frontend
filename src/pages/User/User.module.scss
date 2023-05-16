@@ -1,0 +1,39 @@
+.root {
+  display: flex;
+  padding: 50px;
+  border: 1px solid #dedede;
+  margin: 50px auto;
+}
+
+.wrapper_avatar {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.avatar {
+  width: 360px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: center;
+}
+
+.userDetails {
+  display: flex;
+  justify-content: center;
+
+  ul {
+    margin-top: 0;
+    padding-left: 0;
+    display: flex;
+    list-style: none;
+  }
+
+  li {
+    margin-right: 16px;
+  }
+}
+
+.btn {
+  margin-top: 16px;
+}
